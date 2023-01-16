@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2015
+since: 2022
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -38,7 +38,7 @@ toc: true
 fancybox: true
 
 # LaTeX support (via MathJax)
-latex: false
+latex: true
 
 copyright:
   enable: true
@@ -55,13 +55,13 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: 3521897773@qq.com
   stack-overflow:
   twitter:
   facebook:
   linkedin:
   google:
-  github: https://github.com/ahonn
+  github: https://github.com/Thespica
   weibo:
   zhihu:
   douban:
