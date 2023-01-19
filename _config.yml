@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2022
+since: 2023
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -18,10 +18,10 @@ rss: default
 # ===========================================
 menu:
   Home: /
-  # Archives: /archives/
-  # Tags: /tags/
-  # Categories: /categories/
-  # About: /about/
+  Archives: /archives/
+  Tags: /tags/
+  Categories: /categories/
+  About: /about/
 
 # ===========================================
 # Theme Settings
